@@ -9,17 +9,35 @@
   <title>Document</title>
 </head>
 
+<!-- I think I went down a deep rabbit hole but basically what I did was I made a 5 div grid. Header, nav, section aside and footer are the main divs. I then nested a 1 column / 1 row grid inside of the section div and placed article in that. Then I nested another 2 row / 1 column grid inside of the article div to place h1-2-3 and p in each of the respective rows. -->
+
 <body>
-  <div class="header">header</div>
-  <div class="nav">nav</div>
-  <div class="section">section
-    <div class="article">article
-      <div class="h1-h2-h3">h1, h2, h3</div>
-      <div class="p">p</div>
+  <div class="container">
+    <div class="header">
+      <div class="header-text">header</div>
+    </div>
+    <div class="nav">
+      <div class="nav-text">nav</div>
+    </div>
+    <div class="section">
+      <div class="section-text">section</div>
+      <div class="article">
+        <div class="article-text">article</div>
+        <div class="h1-h2-h3">
+          <div class="h1-h2-h3-text"><strong>h1, h2, h3</strong></div>
+        </div>
+        <div class="p">
+          <div class="p-text">p</div>
+        </div>
+      </div>
+    </div>
+    <div class="aside">
+      <div class="aside-text">aside</div>
+    </div>
+    <div class="footer">
+      <div class="footer-text">footer</div>
     </div>
   </div>
-  <div class="aside">aside</div>
-  <div class="footer">footer</div>
 
 
 </body>
