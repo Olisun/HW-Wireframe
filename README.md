@@ -1,8 +1,5 @@
 # HW-Wireframe
 
-## Mock-up version (that we must replicate):
-![alt text](img/Class-Mockup.png "What we need to copy.")
-
 ## My final version: 
 ![alt text](img/HW-Wireframe.png "What the final layout looks like.")
 
