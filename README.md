@@ -1,7 +1,7 @@
 # HW-Wireframe
 
-## My final version: 
-![alt text](img/HW-Wireframe.png "What the final layout looks like.")
+## Page preview: 
+![alt text](img/HW-Wireframe.png "Final version")
 
 ## About the project:
   * For our first homework assignment, we had to make a replica of a basic wireframe. We were given the following specs:
